@@ -1,0 +1,7 @@
+accessToken=Your_MEMBiT_Token_1
+csrf=Your_CSRF_Twitter_Token_1
+cookie=Your_Cookie_Twitter_1
+
+accessToken=Your_MEMBiT_Token_2
+csrf=Your_CSRF_Twitter_Token_2
+cookie=Your_Cookie_Twitter_2
